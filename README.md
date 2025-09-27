@@ -24,8 +24,8 @@ proyectos reales desde roles de entry level o prácticas.
 
 ## 🎓 Educación
 
-- **IBM z/OS** (2025 - en curso)  
-- **Fundamentos de Cloud Computing** (2025 - en curso)  
+- **IBM z/OS Mainframe Practitioner** (2025)  
+- **Fundamentos de Cloud Computing** (2025)  
 - **Full Stack Developer** (2024 - en curso)  
 - **Profesor Nacional de Música**, Instituto del Profesorado de Arte *“Adolfo Ábalos”* (1998)  
 - **Técnico en Computación**, Escuela de Educación Técnica N° 5 (1995)  
